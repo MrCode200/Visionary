@@ -54,8 +54,8 @@ class HijackerHook:
                 break
             else:
                 logger.error(f"Failed to send hijack message. Response: {data}")
-                sleep(1)
 
+        sleep(1)
         self.block_keyboard = False
         kb.press_and_release(key)
         logger.debug(f"Keyboard unblocked and key {key} pressed.")

@@ -267,3 +267,39 @@
 {"timestamp": "2025-09-16 14:57:58,454", "level": "INFO", "file": "config.py", "line_number": 36, "function": "__setattr__", "message": "Updated server_url in .env file.", "exc_info": null}
 {"timestamp": "2025-09-16 14:58:08,490", "level": "INFO", "file": "main.py", "line_number": 62, "function": "main", "message": "Initializing settings...", "exc_info": null}
 {"timestamp": "2025-09-16 14:58:08,490", "level": "INFO", "file": "api.py", "line_number": 12, "function": "fetch_target_process_name", "message": "Fetching target's process name...", "exc_info": null}
+{"timestamp": "2025-09-16 20:20:55,598", "level": "INFO", "file": "config.py", "line_number": 36, "function": "__setattr__", "message": "Updated server_url in .env file.", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:00,120", "level": "INFO", "file": "main.py", "line_number": 64, "function": "main", "message": "Initializing settings...", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:00,120", "level": "INFO", "file": "api.py", "line_number": 12, "function": "fetch_target_process_name", "message": "Fetching target's process name...", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:09,510", "level": "INFO", "file": "api.py", "line_number": 16, "function": "fetch_target_process_name", "message": "Target's process name acquired: Discord.exe", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:09,511", "level": "INFO", "file": "main.py", "line_number": 70, "function": "main", "message": "Hijacker initiated ...", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:19,363", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: backspace", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:19,423", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: backspace", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:19,501", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: backspace", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:19,560", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: backspace", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:19,637", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: backspace", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:19,701", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: backspace", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:19,780", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: backspace", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:19,839", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: backspace", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:19,916", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: backspace", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:19,985", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: backspace", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:20,378", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: t", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:20,488", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: e", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:20,539", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: s", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:20,566", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: t", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:20,649", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: t", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:20,662", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: e", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:20,685", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: s", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:20,750", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: t", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:21,427", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: space", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:21,581", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: space", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:22,528", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: l", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:22,597", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: l", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:22,734", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: o", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:22,789", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: o", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:22,904", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: l", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:22,977", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: l", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:23,234", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: backspace", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:23,307", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 32, "function": "hook", "message": "Event appended to Event History: backspace", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:24,052", "level": "INFO", "file": "hijackerHook.py", "line_number": 37, "function": "hook", "message": "Hijacked message: test lo", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:25,052", "level": "INFO", "file": "hijackerHook.py", "line_number": 53, "function": "block_and_send", "message": "Message hijacked successfully.", "exc_info": null}
+{"timestamp": "2025-09-16 20:21:25,054", "level": "DEBUG", "file": "hijackerHook.py", "line_number": 61, "function": "block_and_send", "message": "Keyboard unblocked and key enter pressed.", "exc_info": null}

@@ -21,7 +21,7 @@ def setup():
 
     setup_logger(
         logger_name="hijacker.app",
-        stream_level=logging.DEBUG,
+        stream_level=logging.INFO,
         log_file_name="logs/hijacker.log",
         stream_in_color=True,
         log_in_json=True,
