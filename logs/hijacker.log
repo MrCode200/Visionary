@@ -1,0 +1,17 @@
+{"timestamp": "2025-09-15 18:57:16,087", "level": "INFO", "file": "main.py", "line_number": 21, "function": "main", "message": "Hijacker initiated ...", "exc_info": null}
+{"timestamp": "2025-09-15 18:57:23,338", "level": "INFO", "file": "main.py", "line_number": 21, "function": "main", "message": "Hijacker initiated ...", "exc_info": null}
+{"timestamp": "2025-09-15 18:57:24,634", "level": "INFO", "file": "main.py", "line_number": 26, "function": "main", "message": "Hijacker terminated!", "exc_info": null}
+{"timestamp": "2025-09-15 19:36:01,285", "level": "INFO", "file": "main.py", "line_number": 32, "function": "main", "message": "Initializing settings...", "exc_info": null}
+{"timestamp": "2025-09-15 19:36:07,202", "level": "INFO", "file": "main.py", "line_number": 32, "function": "main", "message": "Initializing settings...", "exc_info": null}
+{"timestamp": "2025-09-15 19:36:14,284", "level": "INFO", "file": "main.py", "line_number": 32, "function": "main", "message": "Initializing settings...", "exc_info": null}
+{"timestamp": "2025-09-15 19:37:39,454", "level": "INFO", "file": "main.py", "line_number": 32, "function": "main", "message": "Initializing settings...", "exc_info": null}
+{"timestamp": "2025-09-15 19:37:39,894", "level": "INFO", "file": "config.py", "line_number": 18, "function": "__init__", "message": "No .env file found, initiating setup...", "exc_info": null}
+{"timestamp": "2025-09-15 19:37:51,232", "level": "INFO", "file": "config.py", "line_number": 23, "function": "__init__", "message": ".env file created successfully.", "exc_info": null}
+{"timestamp": "2025-09-15 19:37:51,234", "level": "INFO", "file": "main.py", "line_number": 36, "function": "main", "message": "Hijacker initiated ...", "exc_info": null}
+{"timestamp": "2025-09-15 19:37:58,187", "level": "INFO", "file": "main.py", "line_number": 41, "function": "main", "message": "Hijacker terminated!", "exc_info": null}
+{"timestamp": "2025-09-15 19:38:56,048", "level": "INFO", "file": "main.py", "line_number": 32, "function": "main", "message": "Initializing settings...", "exc_info": null}
+{"timestamp": "2025-09-15 19:38:56,234", "level": "INFO", "file": "main.py", "line_number": 36, "function": "main", "message": "Hijacker initiated ...", "exc_info": null}
+{"timestamp": "2025-09-15 19:39:12,628", "level": "INFO", "file": "main.py", "line_number": 32, "function": "main", "message": "Initializing settings...", "exc_info": null}
+{"timestamp": "2025-09-15 19:39:12,818", "level": "INFO", "file": "config.py", "line_number": 19, "function": "__init__", "message": "No .env file found, initiating setup...", "exc_info": null}
+{"timestamp": "2025-09-15 19:41:11,436", "level": "INFO", "file": "main.py", "line_number": 32, "function": "main", "message": "Initializing settings...", "exc_info": null}
+{"timestamp": "2025-09-15 19:41:11,650", "level": "INFO", "file": "config.py", "line_number": 19, "function": "__init__", "message": "No .env file found, initiating setup...", "exc_info": null}
